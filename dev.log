@@ -1,0 +1,17 @@
+npm warn Unknown env config "python". This will stop working in the next major version of npm.
+
+> tracknet@1.0.0 dev
+> next dev
+
+   ▲ Next.js 16.0.7 (Turbopack)
+   - Local:         http://localhost:3000
+   - Network:       http://10.16.11.106:3000
+
+ ✓ Starting...
+ ✓ Ready in 2.8s
+ ○ Compiling / ...
+ GET / 200 in 7.3s (compile: 7.1s, render: 280ms)
+ POST /api/auth/login 200 in 1475ms (compile: 1244ms, render: 230ms)
+ GET /api/trucks 200 in 395ms (compile: 356ms, render: 39ms)
+ POST /api/trucks/location 200 in 267ms (compile: 230ms, render: 37ms)
+[?25h
